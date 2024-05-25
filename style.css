@@ -1,0 +1,26 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background: blue;
+  color: white;
+  text-align: center;
+}
+heading {
+  font-size: 50px;
+}
+p1 {
+  font-size: 15px;
+  text-align: left;
+}
+
+p2 {
+  font-size: 15px;
+  text-align: left;
+}
+p3 {
+  font-size: 15px;
+  text-align: left;
+}
